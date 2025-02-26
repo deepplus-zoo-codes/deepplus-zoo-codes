@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepplus/static/css/main.c8b693f3.css",
+    "main.js": "/deepplus/static/js/main.3afac08f.js",
+    "static/js/453.4afc0bf8.chunk.js": "/deepplus/static/js/453.4afc0bf8.chunk.js",
+    "index.html": "/deepplus/index.html",
+    "main.c8b693f3.css.map": "/deepplus/static/css/main.c8b693f3.css.map",
+    "main.3afac08f.js.map": "/deepplus/static/js/main.3afac08f.js.map",
+    "453.4afc0bf8.chunk.js.map": "/deepplus/static/js/453.4afc0bf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b693f3.css",
+    "static/js/main.3afac08f.js"
+  ]
+}
